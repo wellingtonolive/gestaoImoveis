@@ -13,7 +13,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
   - [Java 8](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR)
   - [Maven](https://maven.apache.org/download.cgi)
   
-Além disto é bom ter IDE para trabalhar com desenvolvimento em Java [Eclipse](https://www.eclipse.org/downloads/)
+Além disto é bom ter uma IDE para trabalhar com desenvolvimento em Java [Eclipse](https://www.eclipse.org/downloads/)
 
 ## 🎲 Rodando o Back End (servidor)
 
