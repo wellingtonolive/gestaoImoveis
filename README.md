@@ -1,8 +1,6 @@
 # gestaoImoveis
 Projeto Back-End desenvolvido para realizar o controle de imóveis de uma imobiliária
 
-# forum
-
 ## Descrição
 O projeto é uma aplicação Back-End com objetivo de gerenciar imóveis de uma imoboliária. 
 
